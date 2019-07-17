@@ -1,0 +1,35 @@
+---
+title: "Notes from: Modeling Evolution - an introduction to numerical methods"
+author: "Karly J. Ross"
+date: "16/07/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About this document
+
+This document is a compilation of my notes and review and self study from the text "Modeling Evolution" by Derek A. Roff.  The purpouse of the project is to revise what I have learned about mathimatical modles of evolution and enhance and imporve my skills in using R. As I work through the chapters I will include the code from the text book in the notes, as well as the code I create independatly.   By the end of this exercise I will also be comfortable using R markdown. 
+
+##Chapter 1\
+
+*Notes from the First Chapter*
+
+*Code from the first chapter*
+
+```{r cars}
+summary(cars)
+```
+*Code produced independatly*
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
